@@ -66,6 +66,12 @@ The final dashboard is publicly accessible, demonstrating an end-to-end solution
 
 ---
 
+## System Architecture
+
+![System Architecture](System Architecture.png)
+
+---
+
 ## Cloud Architecture (AWS)
 
 - **AWS S3** → Stores final merged dataset  
